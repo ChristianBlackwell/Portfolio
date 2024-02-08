@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Metadata -->
+    <meta charset="utf-8" />
+    <!-- External Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="carousel.css" />
+    <link rel="stylesheet" type="text/css" href="mediaqueries.css" />
+    <!-- Google Fonts - Rubik -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Rubik"
+      rel="stylesheet"
+    />
+    <!-- Page Title -->
+    <title>Christian Blackwell - Portfolio</title>
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="tech-logo" src="assets/tech-logo.png" alt="tech-logo" />
+      <div class="title-text">
+        <h1>I'm Christian,</h1>
+        <h2>a programmer.</h2>
+      </div>
+      <img class="biking-logo" src="assets/biking-logo.PNG" alt="biking-logo" />
+      <img class="nature-logo" src="assets/nature1 - logo.png" alt="" />
+    </div>
+
+    <div class="middle-container">
+      <div class="profile">
+        <img src="assets/portfolio-pic.jpeg" alt="christian-profile-img" />
+        <h2>Greetings!</h2>
+        <p class="intro">
+          I thrive on unraveling complexities and translating ideas into
+          seamless digital experiences. Beyond the screen, I find inspiration in
+          the worlds of gaming and the exhilarating trails of mountain biking,
+          where I meet challenges with a sense of adventure. Join me in
+          exploring the intersection of technology and creativity.
+        </p>
+      </div>
+      <hr />
+
+      <div class="skills">
+        <h2>My Skills</h2>
+        <div class="parent">
+          <div class="tech">
+            <img src="assets/tech-img.jpg" alt="tech-img" />
+          </div>
+          <div class="coding">
+            <h3>Technical Background</h3>
+            <p>
+              My tech journey began early with a fascination for computers; I
+              spent much time assisting my uncle with computer projects. At 18,
+              I built my first computer and became the go-to person for computer
+              upgrades, repairs, and troubleshooting. Fast forward to 2023, a
+              pivotal year when I decided to pursue my childhood dream of
+              becoming a game developer. Learning to code opened up a new realm
+              of possibilities. Since then, I've immersed myself in coding,
+              transforming my passion into a technical skill that fuels my
+              pursuit of game development.
+            </p>
+          </div>
+
+          <!-- Make this a hobby with pictures so whatever I can find or enjoy. Gaming, biking, hiking, etc. -->
+          <div class="biking">
+            <img class="bike-img" src="assets/bike.jpg" alt="bike-img" />
+          </div>
+          <div class="hobby-details">
+            <h3>Hobbies</h3>
+            <p>
+              Throughout my life, I've had a trifecta of passions: gaming,
+              mountain biking, and immersing myself in nature. With my Dad, I've
+              conquered video game challenges and explored local trails on our
+              mountain bikes since childhood, creating enduring memories. Adding
+              to this, I find solace and adventure in hiking, especially with my
+              wife and kids. Exploring nature rejuvenates the soul, making
+              beautiful moments within our family life. Whether the thrill of a
+              challenging mountain bike trail or a serene hike surrounded by
+              loved ones, I relish every moment of embracing nature.
+            </p>
+          </div>
+        </div>
+      </div>
+      <hr />
+
+      <div class="carousel-container" id="carouselContainer">
+        <h3>My Work</h3>
+        <div class="photo-container" id="photoContainer">
+          <!-- Project elements will be dynamically added here using JavaScript -->
+        </div>
+        <div class="carousel-buttons">
+          <button id="prevBtn">Previous</button>
+          <button id="nextBtn">Next</button>
+        </div>
+
+        <!-- Project Information -->
+        <div class="project-info" id="projectInfo">
+          <h2 id="projectTitle"></h2>
+          <p id="projectDescription"></p>
+          <a id="projectLink" target="_blank">Visit Project</a>
+        </div>
+      </div>
+
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>Feel free to reach out!</h3>
+        <p class="contact-message">
+          Whether you have a project in mind, want to collaborate, or want to
+          say hello, I'm here and ready to connect. <br />
+          Drop me a message, and let's make something great together!
+        </p>
+        <a class="btn" href="mailto:christian.blackwell@outlook.com"
+          >CONTACT ME</a
+        >
+      </div>
+    </div>
+
+    <div class="bottom-container">
+      <a
+        class="footer-link"
+        href="https://www.linkedin.com/in/christian-blackwell/"
+        >LinkedIn</a
+      >
+      <a class="footer-link" href="https://github.com/ChristianBlackwell"
+        >GitHub</a
+      >
+      <a
+        class="footer-link"
+        href="https://docs.google.com/document/d/1E40zW1X0LzhUUqANZ786iJkjKD27fQw3/edit?usp=sharing&ouid=111378834823483217962&rtpof=true&sd=true"
+        >Resume</a
+      >
+      <!-- <a class="footer-link" href="">Website</a> -->
+    </div>
+
+    <!-- jQuery Library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="index.js" charset="utf-8"></script>
+  </body>
+</html>
