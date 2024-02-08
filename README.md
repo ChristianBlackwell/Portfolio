@@ -11,5 +11,5 @@ Visit my live portfolio [here](https://christianblackwell.github.io/Portfolio/) 
 For inquiries or collaboration opportunities, you can reach out to me through the following channels:
 
 - **Email:** christian.blackwell@outlook.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/christian-blackwell/)
+- **LinkedIn:** [Christian Blackwell](https://www.linkedin.com/in/christian-blackwell/)
 
