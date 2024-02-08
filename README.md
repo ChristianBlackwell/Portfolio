@@ -1,4 +1,4 @@
-# Your Name's Portfolio
+# Christian Blackwell's Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases my projects, skills, and provides an overview of who I am.
 
