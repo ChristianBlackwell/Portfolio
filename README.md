@@ -1,48 +1,15 @@
 # Christian Blackwell's Portfolio
 
-Welcome to my GitHub portfolio! This repository showcases my projects, skills, and provides an overview of who I am.
+Welcome to my GitHub portfolio! This repository serves as a gateway to my live portfolio where you can explore my projects, skills, and learn more about me.
 
-## Table of Contents
+## Live Portfolio
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
-
-## About Me
-
-Introduce yourself here. Provide a brief overview of your background, interests, and goals. Mention any education or certifications related to your field.
-
-## Projects
-
-List some of your key projects. Include a short description, technologies used, and a link to the project repository or deployed site.
-
-1. **Project One**
-   - Description: Briefly describe the project.
-   - Technologies: List the technologies used.
-   - [Link to Project](https://github.com/yourusername/project-one)
-
-2. **Project Two**
-   - Description: Briefly describe the project.
-   - Technologies: List the technologies used.
-   - [Link to Project](https://github.com/yourusername/project-two)
-
-...
-
-## Skills
-
-Highlight your key skills. This could include programming languages, frameworks, tools, and any other relevant skills.
-
-- **Programming Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js
-- **Tools:** Git, VS Code, etc.
+Visit my live portfolio [here](https://your-live-portfolio-url.com) for a comprehensive view of my work and background.
 
 ## Contact
 
-Provide information on how people can reach out to you.
+For inquiries or collaboration opportunities, you can reach out to me through the following channels:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** christian.blackwell@outlook.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/christian-blackwell/)
 
-Feel free to customize this template to better fit your information and style. Good luck with your portfolio!
