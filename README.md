@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository serves as a gateway to my live p
 
 ## Live Portfolio
 
-Visit my live portfolio [here](https://your-live-portfolio-url.com) for a comprehensive view of my work and background.
+Visit my live portfolio [here](https://christianblackwell.github.io/Portfolio/) for a comprehensive view of my work and background.
 
 ## Contact
 
