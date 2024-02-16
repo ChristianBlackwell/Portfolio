@@ -117,31 +117,7 @@
 }
 
 @media only screen and (max-width: 1100px) {
-  .top-container img,
-  .nature-logo,
-  .tech-logo,
-  .biking-logo {
-    display: none; /* Hide all pictures except the profile picture on phones */
-  }
-
-  .profile img {
-    width: 50%;
-    height: auto; /* Make the profile picture take the full width of its container */
-  }
-
-  .parent {
-    grid-template-columns: 1fr; /* Make the parent container a single column on phones */
-  }
-
-  .parent img {
-    display: none; /* Set to 'block' or appropriate value to make it visible */
-  }
-
-  .photo-container {
-    height: auto; /* Adjust the height to fit the content on phones */
-  }
-
-  /* Remove the rule that hides the carousel */
+    /* Remove the rule that hides the carousel */
   .carousel-container {
     display: none;
   }
