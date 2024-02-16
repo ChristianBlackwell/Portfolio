@@ -64,6 +64,7 @@
     margin-top: 250px;
   }
   .intro {
+    width: 50%;
     font-size: 1.5em;
   }
 }
@@ -118,6 +119,7 @@
     width: auto;
   }
   .intro {
+    width: 50%;
     font-size: 1.5em;
   }
 }
@@ -170,6 +172,7 @@
     width: auto;
   }
   .intro {
+    width: 50%;
     font-size: 1.5em;
   }
 }
