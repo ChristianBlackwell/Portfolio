@@ -10,6 +10,9 @@ body {
   display: block;
   margin: 8px;
 }
+body p {
+  font-size: 1em;
+}
 
 h1 {
   color: white;
