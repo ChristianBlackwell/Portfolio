@@ -64,8 +64,10 @@
     margin-top: 250px;
   }
   .intro {
-    width: 100%;
     font-size: 1.5em;
+  }
+  .intro p {
+    width: 100%;
   }
 }
 
@@ -119,8 +121,10 @@
     width: auto;
   }
   .intro {
-    width: 100%;
     font-size: 1.5em;
+  }
+  .intro p {
+    width: 100%;
   }
 }
 
@@ -172,8 +176,10 @@
     width: auto;
   }
   .intro {
-    width: 100%;
     font-size: 1.5em;
+  }
+  .intro p {
+    width: 100%;
   }
 }
 
