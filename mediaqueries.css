@@ -64,8 +64,10 @@
     margin-top: 250px;
   }
   .intro {
-    max-width: 100%;
     font-size: 1.5em;
+  }
+  .about-me h3 {
+    font-size: 2em;
   }
 }
 
@@ -119,8 +121,10 @@
     width: auto;
   }
   .intro {
-    max-width: 100%;
     font-size: 1.5em;
+  }
+  .about-me h3 {
+    font-size: 2em;
   }
 }
 
@@ -172,8 +176,10 @@
     width: auto;
   }
   .intro {
-    max-width: 100%;
     font-size: 1.5em;
+  }
+  .about-me h3 {
+    font-size: 2em;
   }
 }
 
