@@ -7,6 +7,13 @@
     display: none; /* Hide all pictures except the profile picture on phones */
   }
 
+  .project {
+    display: none;
+  }
+  .projects h2 {
+    display: none;
+  }
+
   .profile img {
     width: 50%;
     height: auto; /* Make the profile picture take the full width of its container */
@@ -26,7 +33,35 @@
 
   /* Remove the rule that hides the carousel */
   .carousel-container {
-    display: block;
+    display: none;
+  }
+  #carouselhr {
+    display: none;
+  }
+
+  #main-navigation {
+    flex-direction: column; /* Change to a vertical layout */
+    align-items: center; /* Center links in the column */
+  }
+
+  #main-navigation li {
+    margin: 10px 0; /* Adjust spacing for vertical layout */
+    text-align: center; /* Center text in the column */
+  }
+  .skills-container img {
+    height: 60px !important;
+    width: auto;
+  }
+  .skills-container ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    padding: 10px;
+  }
+  #skills {
+    margin-top: 250px;
   }
 }
 
@@ -58,7 +93,26 @@
 
   /* Remove the rule that hides the carousel */
   .carousel-container {
-    display: block;
+    display: none;
+  }
+  #carouselhr {
+    display: none;
+  }
+  #main-navigation {
+    flex-direction: column; /* Change to a vertical layout */
+    align-items: center; /* Center links in the column */
+  }
+
+  #main-navigation li {
+    margin: 10px 0; /* Adjust spacing for vertical layout */
+    text-align: center; /* Center text in the column */
+  }
+  #skills {
+    margin-top: 250px;
+  }
+  .skills-container img {
+    height: 75px !important;
+    width: auto;
   }
 }
 
@@ -72,14 +126,36 @@
     margin-right: 20px; /* Adjust the left margin as needed */
   }
 
-  /* Space out the carousel elements */
-  .carousel-buttons {
-    width: 80%; /* Adjust the width as needed */
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
   .project-info {
     margin-top: 125px; /* Adjust the top margin as needed */
+  }
+  .skills-container ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .skills-container li {
+    flex: 1 1 calc(50% - 20px); /* Two columns with margin */
+  }
+
+  .skills-container img {
+    border: none;
+    height: 85px;
+    width: auto;
+    border-radius: 0%;
+  }
+
+  .skills-container p {
+    font-weight: bold;
+  }
+
+  .carousel-buttons #nextBtn,
+  .carousel-buttons #prevBtn {
+    position: absolute;
+    top: calc(50% - -225px); /* Adjust the value based on your design */
   }
 }
