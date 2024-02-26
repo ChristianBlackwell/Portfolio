@@ -83,7 +83,7 @@
 .carousel-buttons #nextBtn {
   border-width: 15px 0 15px 25px;
   border-color: transparent transparent transparent #669bbf;
-  right: 200px;
+  right: 250px;
   content: "";
   position: absolute;
   top: 50%;
@@ -98,7 +98,7 @@
 .carousel-buttons #prevBtn {
   border-width: 15px 25px 15px 0; /* Adjust the border-width as needed */
   border-color: transparent #669bbf transparent transparent; /* Adjust the border-color as needed */
-  left: 200px; /* Adjust the left property as needed */
+  left: 250px; /* Adjust the left property as needed */
   content: "";
   position: absolute;
   top: 50%;
